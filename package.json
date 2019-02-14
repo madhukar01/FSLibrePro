@@ -1,0 +1,25 @@
+{
+  "name": "fslibrepro",
+  "version": "0.1.0",
+  "description": "",
+  "main": "Reading data from FS Libre Pro using Javascript",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.2",
+    "bows": "^1.7.0",
+    "commander": "^2.19.0",
+    "cp2102": "0.0.2",
+    "esm": "^3.2.4",
+    "node-hid": "^0.7.6",
+    "pl2303": "0.0.4",
+    "serialport": "^7.1.4",
+    "sundial": "^1.6.0",
+    "usb": "^1.5.0",
+    "usb-cdc-acm": "^0.1.1"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0"
+  }
+}
