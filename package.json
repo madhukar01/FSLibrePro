@@ -6,7 +6,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.6.2",
+    "async": "^2.6.4",
     "bows": "^1.7.0",
     "commander": "^2.19.0",
     "cp2102": "0.0.2",
